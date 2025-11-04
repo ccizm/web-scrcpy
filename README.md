@@ -3,6 +3,13 @@
 - 基于 `scrcpy` 的浏览器端控制与投屏服务，允许你在网页中实时镜像并操控 Android 设备。
 - 本项目为 fork 并改进自 `baixin1228/web-scrcpy`，在设备管理、端口转发、输入控制、前端交互与稳定性方面做了多处增强。
 
+## 视频演示
+
+
+https://github.com/user-attachments/assets/adb5748d-e84e-448a-8dfb-283e7845232b
+
+
+
 ## 功能特性
 
 - 浏览器实时镜像：H.264 码流在前端通过 `JMuxer` 低延时播放。
