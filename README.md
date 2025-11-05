@@ -146,5 +146,6 @@ https://github.com/user-attachments/assets/adb5748d-e84e-448a-8dfb-283e7845232b
 
 ## 致谢
 
-- 上游项目：`baixin1228/web-scrcpy`。
+- 上游项目：`baixin1228/web-scrcpy` `X-PLUG/MobileAgent`。
+- `ADB` (Android Debug Bridge)
 - `scrcpy` 与相关开源组件的贡献者们。
